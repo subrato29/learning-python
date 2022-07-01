@@ -17,10 +17,3 @@ print(id(b))
 
 a, b, c = 3, 2, "string"
 print(a, b, c)
-
-s = "hello world"
-print(s[0])
-print(s[3:7])
-print(s[2:])
-print(s * 3)
-print(s + " python")
